@@ -69,3 +69,10 @@ Yes, by matching the rail: an address for on-chain, an invoice for Lightning.
 ### Is Cash App self-custodial?
 
 No. It is a custodial service with a Lightning rail in some configurations.
+
+## Related guides
+
+- [Best Bitcoin Lightning wallets compared, including this one](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/best-lightning-wallet-compared.md)
+- [Cash App, Coinbase and Binance: are they Lightning wallets?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/cash-app-coinbase-binance-lightning.md)
+- [Custodial vs non-custodial wallet: which one is actually safer](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/custodial-vs-non-custodial-wallet.md)
+

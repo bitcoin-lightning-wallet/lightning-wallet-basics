@@ -63,3 +63,10 @@ For a spending balance, four matter. For savings, all of them.
 ### What is the single most important?
 
 Tested recovery. It catches more real losses than any other item.
+
+## Related guides
+
+- [Best Bitcoin Lightning wallets compared, including this one](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/best-lightning-wallet-compared.md)
+- [Which wallets support Lightning, compared by what they actually do](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-wallets-support-lightning.md)
+- [The safest bitcoin wallets, and whether hardware fits Lightning](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/safest-bitcoin-wallets-and-hardware.md)
+

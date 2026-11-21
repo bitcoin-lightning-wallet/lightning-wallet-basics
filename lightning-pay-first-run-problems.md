@@ -70,3 +70,10 @@ No. There is no account, and any page asking for wallet credentials is not this 
 ### Should I reinstall to fix a display problem?
 
 No. Diagnose first; reinstall only with a tested phrase.
+
+## Related guides
+
+- [Downloading Lightning Pay on Windows and macOS without getting a fake](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/download-lightning-pay-windows-macos.md)
+- [Do you have to manage Lightning channels yourself?](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/manage-lightning-channels.md)
+- [Why a Lightning payment fails, sticks or shows a zero balance](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/why-a-lightning-payment-fails-or-sticks.md)
+

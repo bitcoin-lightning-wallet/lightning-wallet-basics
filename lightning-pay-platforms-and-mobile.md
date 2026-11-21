@@ -63,3 +63,10 @@ Yes, Windows 10 1909 or later covers it.
 ### Can I run it on a server?
 
 It is a desktop application. Running it headless is not a supported configuration.
+
+## Related guides
+
+- [Downloading Lightning Pay on Windows and macOS without getting a fake](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/download-lightning-pay-windows-macos.md)
+- [First run: syncing, connecting and login problems in Lightning Pay](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/lightning-pay-first-run-problems.md)
+- [What a Lightning wallet is, in plain terms](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-a-lightning-wallet.md)
+

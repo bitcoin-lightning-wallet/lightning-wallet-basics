@@ -75,3 +75,9 @@ Yes. A custodial app for convenience and this for self-custody is a common split
 ### What is missing that competitors have?
 
 Mobile, a card and hardware integration. Each is a roadmap item rather than a current feature.
+
+## Related guides
+
+- [The best Lightning wallet: the checklist to judge one](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/best-lightning-wallet-checklist.md)
+- [Which wallets support Lightning, compared by what they actually do](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-wallets-support-lightning.md)
+

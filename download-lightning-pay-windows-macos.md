@@ -73,3 +73,9 @@ matters.
 
 The release page is the reference. If you want more, compare the file name and size against the release
 listing before running it.
+
+## Related guides
+
+- [What Lightning Pay Wallet is, and what it is not](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-lightning-pay-wallet-is.md)
+- [How to get a Lightning wallet and open your first one](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/how-to-get-a-lightning-wallet.md)
+

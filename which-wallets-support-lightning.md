@@ -66,3 +66,9 @@ Not automatically. But every added service is another party in the path.
 ### Can I change wallets later?
 
 On-chain funds, yes, with the phrase. Channel balances are tied to the wallet that created them.
+
+## Related guides
+
+- [Does Trust Wallet, Exodus, Cake or Sparrow support Lightning?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/does-trust-exodus-cake-sparrow-support-lightning.md)
+- [Which bitcoin apps have a Lightning wallet built in](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-bitcoin-apps-have-lightning.md)
+
