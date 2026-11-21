@@ -69,3 +69,9 @@ Free is the norm and says nothing about safety. Custody, backup and download sou
 
 By restoring from the phrase, yes, but avoid running both at once: the wallet state is not designed to
 be shared.
+
+## Related guides
+
+- [What a Lightning wallet is, in plain terms](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-a-lightning-wallet.md)
+- [Downloading Lightning Pay on Windows and macOS without getting a fake](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/download-lightning-pay-windows-macos.md)
+

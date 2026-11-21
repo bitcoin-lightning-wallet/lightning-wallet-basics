@@ -71,3 +71,10 @@ Yes, and many people do: a custodial app for convenience, a self-custodial walle
 ### Do any of these need a node?
 
 Only category four. The others hide the node behind the interface.
+
+## Related guides
+
+- [Cash App, Coinbase and Binance: are they Lightning wallets?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/cash-app-coinbase-binance-lightning.md)
+- [Which wallets support Lightning, compared by what they actually do](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-wallets-support-lightning.md)
+- [Does Trust Wallet, Exodus, Cake or Sparrow support Lightning?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/does-trust-exodus-cake-sparrow-support-lightning.md)
+

@@ -60,3 +60,8 @@ Yes, and most do. The two balances sit side by side and travel on different rail
 ### What happens if I close the app?
 
 Nothing is lost, but you cannot receive while it is closed, and a payment in flight may fail.
+
+## Related guides
+
+- [What the Lightning Network is and how a payment moves](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-the-lightning-network.md)
+

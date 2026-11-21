@@ -63,3 +63,10 @@ No, only the channel open and close do. Payments inside a channel stay off-chain
 ### Can Lightning payments be reversed?
 
 No. A completed payment is final.
+
+## Related guides
+
+- [What a Lightning wallet is, in plain terms](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-a-lightning-wallet.md)
+- [Is Lightning a blockchain, who owns it, and is it cheaper than Bitcoin](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/is-lightning-a-blockchain-and-is-it-free.md)
+- [How fast a Lightning payment is, and what a satoshi is worth](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/how-fast-is-a-lightning-payment.md)
+

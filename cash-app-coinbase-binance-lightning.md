@@ -64,3 +64,9 @@ Yes, using the deposit method Coinbase gives you: an address for on-chain, an in
 ### Why is my withdrawal blocked?
 
 That is the service's decision about your account. It is not something the wallet can see or fix.
+
+## Related guides
+
+- [Which bitcoin apps have a Lightning wallet built in](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-bitcoin-apps-have-lightning.md)
+- [Which wallets support Lightning, compared by what they actually do](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-wallets-support-lightning.md)
+

@@ -70,3 +70,10 @@ Check which network you used against the deposit method you were given. A mismat
 ### Does a channel close count as a transfer?
 
 Yes, from Lightning to on-chain, and it pays an on-chain fee.
+
+## Related guides
+
+- [How fast a Lightning payment is, and what a satoshi is worth](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/how-fast-is-a-lightning-payment.md)
+- [What the Lightning Network is and how a payment moves](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-the-lightning-network.md)
+- [Moving bitcoin between Lightning Pay and exchanges or Cash App](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/move-bitcoin-to-exchanges-or-cash-app.md)
+

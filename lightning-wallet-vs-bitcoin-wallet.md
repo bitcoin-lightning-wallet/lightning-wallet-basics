@@ -64,3 +64,10 @@ No. It is the same bitcoin, in a channel rather than at an address.
 ### Do I need two wallets?
 
 Not necessarily. One application usually handles both rails, as this one does.
+
+## Related guides
+
+- [What a Lightning wallet is, in plain terms](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-a-lightning-wallet.md)
+- [What the Lightning Network is and how a payment moves](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-the-lightning-network.md)
+- [Sending bitcoin between the on-chain network and Lightning](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/on-chain-to-lightning-transfers.md)
+

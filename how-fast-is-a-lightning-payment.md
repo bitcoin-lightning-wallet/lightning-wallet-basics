@@ -64,3 +64,10 @@ It is waiting for a block. Lightning speed does not apply to the base layer.
 ### Are fees paid in sats?
 
 Yes, routing fees are fractions of a satoshi per hop.
+
+## Related guides
+
+- [What the Lightning Network is and how a payment moves](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-the-lightning-network.md)
+- [Sending bitcoin between the on-chain network and Lightning](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/on-chain-to-lightning-transfers.md)
+- [What a Lightning payment costs, including channel fees](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/what-a-lightning-payment-costs.md)
+

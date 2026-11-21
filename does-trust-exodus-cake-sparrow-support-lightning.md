@@ -66,3 +66,9 @@ No. Plenty of custodial wallets support Lightning.
 ### Can I send from one to the other?
 
 If one side can produce an invoice or an address the other accepts, yes. The rails must match.
+
+## Related guides
+
+- [Which wallets support Lightning, compared by what they actually do](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/which-wallets-support-lightning.md)
+- [Cash App, Coinbase and Binance: are they Lightning wallets?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/cash-app-coinbase-binance-lightning.md)
+

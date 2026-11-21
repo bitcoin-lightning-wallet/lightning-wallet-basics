@@ -66,3 +66,10 @@ No. A company can stop running its wallet or its nodes; it cannot stop the proto
 ### Why did my first payment cost more?
 
 Because a channel had to be opened, and that opening is an on-chain transaction.
+
+## Related guides
+
+- [What the Lightning Network is and how a payment moves](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-the-lightning-network.md)
+- [What a Lightning wallet is, in plain terms](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/what-is-a-lightning-wallet.md)
+- [How fast a Lightning payment is, and what a satoshi is worth](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/how-fast-is-a-lightning-payment.md)
+
